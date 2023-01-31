@@ -1,0 +1,20 @@
+{
+  "name": "litevectors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "example_roundtrip": "ts-node ./examples/roundtrip.ts",
+    "test_vec": "ts-node ./test/test_vectors.ts"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.8.0",
+    "typescript": "^4.7.2"
+  }
+}

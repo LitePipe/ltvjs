@@ -1,0 +1,448 @@
+invalid tag - typeCode: 0, sizeCode: 1
+01
+invalid tag - typeCode: 0, sizeCode: 2
+02
+invalid tag - typeCode: 0, sizeCode: 3
+03
+invalid tag - typeCode: 0, sizeCode: 4
+04
+invalid tag - typeCode: 0, sizeCode: 5
+05
+invalid tag - typeCode: 0, sizeCode: 6
+06
+invalid tag - typeCode: 0, sizeCode: 7
+07
+invalid tag - typeCode: 0, sizeCode: 8
+08
+invalid tag - typeCode: 0, sizeCode: 9
+09
+invalid tag - typeCode: 0, sizeCode: 10
+0a
+invalid tag - typeCode: 0, sizeCode: 11
+0b
+invalid tag - typeCode: 0, sizeCode: 12
+0c
+invalid tag - typeCode: 0, sizeCode: 13
+0d
+invalid tag - typeCode: 0, sizeCode: 14
+0e
+invalid tag - typeCode: 0, sizeCode: 15
+0f
+invalid tag - typeCode: 1, sizeCode: 1
+11
+invalid tag - typeCode: 1, sizeCode: 2
+12
+invalid tag - typeCode: 1, sizeCode: 3
+13
+invalid tag - typeCode: 1, sizeCode: 4
+14
+invalid tag - typeCode: 1, sizeCode: 5
+15
+invalid tag - typeCode: 1, sizeCode: 6
+16
+invalid tag - typeCode: 1, sizeCode: 7
+17
+invalid tag - typeCode: 1, sizeCode: 8
+18
+invalid tag - typeCode: 1, sizeCode: 9
+19
+invalid tag - typeCode: 1, sizeCode: 10
+1a
+invalid tag - typeCode: 1, sizeCode: 11
+1b
+invalid tag - typeCode: 1, sizeCode: 12
+1c
+invalid tag - typeCode: 1, sizeCode: 13
+1d
+invalid tag - typeCode: 1, sizeCode: 14
+1e
+invalid tag - typeCode: 1, sizeCode: 15
+1f
+invalid tag - typeCode: 2, sizeCode: 1
+21
+invalid tag - typeCode: 2, sizeCode: 2
+22
+invalid tag - typeCode: 2, sizeCode: 3
+23
+invalid tag - typeCode: 2, sizeCode: 4
+24
+invalid tag - typeCode: 2, sizeCode: 5
+25
+invalid tag - typeCode: 2, sizeCode: 6
+26
+invalid tag - typeCode: 2, sizeCode: 7
+27
+invalid tag - typeCode: 2, sizeCode: 8
+28
+invalid tag - typeCode: 2, sizeCode: 9
+29
+invalid tag - typeCode: 2, sizeCode: 10
+2a
+invalid tag - typeCode: 2, sizeCode: 11
+2b
+invalid tag - typeCode: 2, sizeCode: 12
+2c
+invalid tag - typeCode: 2, sizeCode: 13
+2d
+invalid tag - typeCode: 2, sizeCode: 14
+2e
+invalid tag - typeCode: 2, sizeCode: 15
+2f
+invalid tag - typeCode: 3, sizeCode: 1
+31
+invalid tag - typeCode: 3, sizeCode: 2
+32
+invalid tag - typeCode: 3, sizeCode: 3
+33
+invalid tag - typeCode: 3, sizeCode: 4
+34
+invalid tag - typeCode: 3, sizeCode: 5
+35
+invalid tag - typeCode: 3, sizeCode: 6
+36
+invalid tag - typeCode: 3, sizeCode: 7
+37
+invalid tag - typeCode: 3, sizeCode: 8
+38
+invalid tag - typeCode: 3, sizeCode: 9
+39
+invalid tag - typeCode: 3, sizeCode: 10
+3a
+invalid tag - typeCode: 3, sizeCode: 11
+3b
+invalid tag - typeCode: 3, sizeCode: 12
+3c
+invalid tag - typeCode: 3, sizeCode: 13
+3d
+invalid tag - typeCode: 3, sizeCode: 14
+3e
+invalid tag - typeCode: 3, sizeCode: 15
+3f
+invalid tag - typeCode: 4, sizeCode: 5
+45
+invalid tag - typeCode: 4, sizeCode: 6
+46
+invalid tag - typeCode: 4, sizeCode: 7
+47
+invalid tag - typeCode: 4, sizeCode: 8
+48
+invalid tag - typeCode: 4, sizeCode: 9
+49
+invalid tag - typeCode: 4, sizeCode: 10
+4a
+invalid tag - typeCode: 4, sizeCode: 11
+4b
+invalid tag - typeCode: 4, sizeCode: 12
+4c
+invalid tag - typeCode: 4, sizeCode: 13
+4d
+invalid tag - typeCode: 4, sizeCode: 14
+4e
+invalid tag - typeCode: 4, sizeCode: 15
+4f
+invalid tag - typeCode: 5, sizeCode: 5
+55
+invalid tag - typeCode: 5, sizeCode: 6
+56
+invalid tag - typeCode: 5, sizeCode: 7
+57
+invalid tag - typeCode: 5, sizeCode: 8
+58
+invalid tag - typeCode: 5, sizeCode: 9
+59
+invalid tag - typeCode: 5, sizeCode: 10
+5a
+invalid tag - typeCode: 5, sizeCode: 11
+5b
+invalid tag - typeCode: 5, sizeCode: 12
+5c
+invalid tag - typeCode: 5, sizeCode: 13
+5d
+invalid tag - typeCode: 5, sizeCode: 14
+5e
+invalid tag - typeCode: 5, sizeCode: 15
+5f
+invalid tag - typeCode: 6, sizeCode: 5
+65
+invalid tag - typeCode: 6, sizeCode: 6
+66
+invalid tag - typeCode: 6, sizeCode: 7
+67
+invalid tag - typeCode: 6, sizeCode: 8
+68
+invalid tag - typeCode: 6, sizeCode: 9
+69
+invalid tag - typeCode: 6, sizeCode: 10
+6a
+invalid tag - typeCode: 6, sizeCode: 11
+6b
+invalid tag - typeCode: 6, sizeCode: 12
+6c
+invalid tag - typeCode: 6, sizeCode: 13
+6d
+invalid tag - typeCode: 6, sizeCode: 14
+6e
+invalid tag - typeCode: 6, sizeCode: 15
+6f
+invalid tag - typeCode: 7, sizeCode: 5
+75
+invalid tag - typeCode: 7, sizeCode: 6
+76
+invalid tag - typeCode: 7, sizeCode: 7
+77
+invalid tag - typeCode: 7, sizeCode: 8
+78
+invalid tag - typeCode: 7, sizeCode: 9
+79
+invalid tag - typeCode: 7, sizeCode: 10
+7a
+invalid tag - typeCode: 7, sizeCode: 11
+7b
+invalid tag - typeCode: 7, sizeCode: 12
+7c
+invalid tag - typeCode: 7, sizeCode: 13
+7d
+invalid tag - typeCode: 7, sizeCode: 14
+7e
+invalid tag - typeCode: 7, sizeCode: 15
+7f
+invalid tag - typeCode: 8, sizeCode: 5
+85
+invalid tag - typeCode: 8, sizeCode: 6
+86
+invalid tag - typeCode: 8, sizeCode: 7
+87
+invalid tag - typeCode: 8, sizeCode: 8
+88
+invalid tag - typeCode: 8, sizeCode: 9
+89
+invalid tag - typeCode: 8, sizeCode: 10
+8a
+invalid tag - typeCode: 8, sizeCode: 11
+8b
+invalid tag - typeCode: 8, sizeCode: 12
+8c
+invalid tag - typeCode: 8, sizeCode: 13
+8d
+invalid tag - typeCode: 8, sizeCode: 14
+8e
+invalid tag - typeCode: 8, sizeCode: 15
+8f
+invalid tag - typeCode: 9, sizeCode: 5
+95
+invalid tag - typeCode: 9, sizeCode: 6
+96
+invalid tag - typeCode: 9, sizeCode: 7
+97
+invalid tag - typeCode: 9, sizeCode: 8
+98
+invalid tag - typeCode: 9, sizeCode: 9
+99
+invalid tag - typeCode: 9, sizeCode: 10
+9a
+invalid tag - typeCode: 9, sizeCode: 11
+9b
+invalid tag - typeCode: 9, sizeCode: 12
+9c
+invalid tag - typeCode: 9, sizeCode: 13
+9d
+invalid tag - typeCode: 9, sizeCode: 14
+9e
+invalid tag - typeCode: 9, sizeCode: 15
+9f
+invalid tag - typeCode: 10, sizeCode: 5
+a5
+invalid tag - typeCode: 10, sizeCode: 6
+a6
+invalid tag - typeCode: 10, sizeCode: 7
+a7
+invalid tag - typeCode: 10, sizeCode: 8
+a8
+invalid tag - typeCode: 10, sizeCode: 9
+a9
+invalid tag - typeCode: 10, sizeCode: 10
+aa
+invalid tag - typeCode: 10, sizeCode: 11
+ab
+invalid tag - typeCode: 10, sizeCode: 12
+ac
+invalid tag - typeCode: 10, sizeCode: 13
+ad
+invalid tag - typeCode: 10, sizeCode: 14
+ae
+invalid tag - typeCode: 10, sizeCode: 15
+af
+invalid tag - typeCode: 11, sizeCode: 5
+b5
+invalid tag - typeCode: 11, sizeCode: 6
+b6
+invalid tag - typeCode: 11, sizeCode: 7
+b7
+invalid tag - typeCode: 11, sizeCode: 8
+b8
+invalid tag - typeCode: 11, sizeCode: 9
+b9
+invalid tag - typeCode: 11, sizeCode: 10
+ba
+invalid tag - typeCode: 11, sizeCode: 11
+bb
+invalid tag - typeCode: 11, sizeCode: 12
+bc
+invalid tag - typeCode: 11, sizeCode: 13
+bd
+invalid tag - typeCode: 11, sizeCode: 14
+be
+invalid tag - typeCode: 11, sizeCode: 15
+bf
+invalid tag - typeCode: 12, sizeCode: 5
+c5
+invalid tag - typeCode: 12, sizeCode: 6
+c6
+invalid tag - typeCode: 12, sizeCode: 7
+c7
+invalid tag - typeCode: 12, sizeCode: 8
+c8
+invalid tag - typeCode: 12, sizeCode: 9
+c9
+invalid tag - typeCode: 12, sizeCode: 10
+ca
+invalid tag - typeCode: 12, sizeCode: 11
+cb
+invalid tag - typeCode: 12, sizeCode: 12
+cc
+invalid tag - typeCode: 12, sizeCode: 13
+cd
+invalid tag - typeCode: 12, sizeCode: 14
+ce
+invalid tag - typeCode: 12, sizeCode: 15
+cf
+invalid tag - typeCode: 13, sizeCode: 5
+d5
+invalid tag - typeCode: 13, sizeCode: 6
+d6
+invalid tag - typeCode: 13, sizeCode: 7
+d7
+invalid tag - typeCode: 13, sizeCode: 8
+d8
+invalid tag - typeCode: 13, sizeCode: 9
+d9
+invalid tag - typeCode: 13, sizeCode: 10
+da
+invalid tag - typeCode: 13, sizeCode: 11
+db
+invalid tag - typeCode: 13, sizeCode: 12
+dc
+invalid tag - typeCode: 13, sizeCode: 13
+dd
+invalid tag - typeCode: 13, sizeCode: 14
+de
+invalid tag - typeCode: 13, sizeCode: 15
+df
+invalid tag - typeCode: 14, sizeCode: 5
+e5
+invalid tag - typeCode: 14, sizeCode: 6
+e6
+invalid tag - typeCode: 14, sizeCode: 7
+e7
+invalid tag - typeCode: 14, sizeCode: 8
+e8
+invalid tag - typeCode: 14, sizeCode: 9
+e9
+invalid tag - typeCode: 14, sizeCode: 10
+ea
+invalid tag - typeCode: 14, sizeCode: 11
+eb
+invalid tag - typeCode: 14, sizeCode: 12
+ec
+invalid tag - typeCode: 14, sizeCode: 13
+ed
+invalid tag - typeCode: 14, sizeCode: 14
+ee
+invalid tag - typeCode: 14, sizeCode: 15
+ef
+invalid tag - typeCode: 15, sizeCode: 5
+f5
+invalid tag - typeCode: 15, sizeCode: 6
+f6
+invalid tag - typeCode: 15, sizeCode: 7
+f7
+invalid tag - typeCode: 15, sizeCode: 8
+f8
+invalid tag - typeCode: 15, sizeCode: 9
+f9
+invalid tag - typeCode: 15, sizeCode: 10
+fa
+invalid tag - typeCode: 15, sizeCode: 11
+fb
+invalid tag - typeCode: 15, sizeCode: 12
+fc
+invalid tag - typeCode: 15, sizeCode: 13
+fd
+invalid tag - typeCode: 15, sizeCode: 14
+fe
+Truncated u8
+60
+Truncated u16
+7000
+Truncated u32
+800102
+Truncated u64
+9001020304050607
+Truncated i8
+a0
+Truncated i16
+b0
+Truncated i32
+c0010203
+Truncated i64
+d0010203040506
+Truncated f32
+e001
+Truncated f64
+f0010203040506
+Truncated []f32 length
+e263
+Truncated []f32
+e104000000
+Truncated struct {'a': 
+104061
+Truncated list [1, 2 
+2060016002
+Truncated struct {'a': <nop><nop>
+104061ffff
+Invalid UTF-8 (first byte)
+4101f6
+Invalid UTF-8 (first byte)
+4102c0af
+Invalid UTF-8 (second byte)
+4103e09f80
+String (that isn't actually there)
+44ff
+Long string (that isn't actually there)
+44ffffffffffffffff
+short u16[]
+7101d007
+long u16[]
+7103d00737
+short []u64
+910f05000000000000000600000000000000
+long []u64
+9111050000000000000006000000000000000000000000000000
+short []f32
+e10f00000000000000000000000000000000
+ludicrous []u64
+94ffffffffffffffff63
+list: ] (hanging list_end)
+30
+list: [[] (unclosed list)
+202030
+list: ['A', 123, [false] (unclosed list)
+204041a07b20500030
+struct: {'a':} (no struct value)
+10406130
+struct: {nil:5} (nil struct key)
+1000a00530
+struct: {5:'five'} (non-string struct key)
+10600541046669766530
+struct: {'0':['0', <corrupt string>
+104030204030413000
